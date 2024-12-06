@@ -1,1 +1,1 @@
-# Loan-Calculator-excel-file
+Data analysis of Bata company 
